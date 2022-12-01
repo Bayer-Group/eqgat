@@ -3,7 +3,7 @@ Pytorch implementation for the manuscript *Representation Learning on Biomolecul
 presented at the [**Machine Learning For Structural Biology Workshop at NeurIPS 2022**](https://www.mlsb.io/) (short paper)
 as well as in the [**Learning On Graphs Conference 2022**](https://logconference.org/) as full-length conference paper.
 
-<img src="https://github.com/bayer-int/eqgat/blob/main/figures/diagram.png" width="600" height="400" class="center">
+<img src="https://github.com/Bayer-Group/eqgat/blob/main/figures/diagram.png" width="600" height="400" class="center">
 
 
 ## Overview
